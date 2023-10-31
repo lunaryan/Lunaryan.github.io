@@ -20,7 +20,7 @@ Work experience
 * 06/2022 - now: Research Assistant
   * Purdue University
   * Supervisor: Prof. Xiangyu Zhang
-  * 
+    
 * 07/2020 - 06/2021: Research Assistant
   * Southern University of Science and Technology
   * Supervisor: Prof. Shin Hwei Tan
