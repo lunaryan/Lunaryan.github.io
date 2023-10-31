@@ -10,6 +10,41 @@ redirect_from:
 
 I am a third-year CS PhD student at Purdue University, advised by Prof. Xiangyu Zhang. My research focuses on AI security. I obtained my Bachelor's degree in CS from Shanghai Jiao Tong University in 2020. During my undergraduate, I was fortunate to be advised by Prof. Haojin Zhu. I was also a member of Zhiyuan Honor Program, an elite STEM student program at SJTU.
 
+Education
+======
+* B.S. in CSE, Shanghai Jiao Tong University, 2016-2020
+* Ph.D in CS, Purdue University, 2021-now
+
+Work experience
+======
+* 06/2022 - now: Research Assistant
+  * Purdue University
+  * Supervisor: Prof. Xiangyu Zhang
+  * 
+* 07/2020 - 06/2021: Research Assistant
+  * Southern University of Science and Technology
+  * Supervisor: Prof. Shin Hwei Tan
+
+* 03/2020 - 05/2020: Research Intern
+  * Tencent Keen Research Lab
+  * Supervisor: Huixin Ma
+ 
+* 07/2019 - 09/2019: Research Intern
+  * Columbia University
+  * Supervisor: Prof. Suman Jana
+ 
+* 01/2018 - 06/2020: Undergraduate Researcher
+  * Shanghai Jiao Tong University
+  * Supervisor: Prof. Haojin Zhu
+ 
+Awards & Scholarships
+======
+* Hongyi Scholarship, 2020 (only 10 students in SJTU were awarded).
+* Overseas Research Scholarship, 2019, Shanghai Jiao Tong University.
+* Zhiyuan Honor Scholarship, 2016-2019, Shanghai Jiao Tong University.
+* Academic Outstanding Award, 2017-2019, Shanghai Jiao Tong University.
+
+
 <!--
 A data-driven personal website
 ======
