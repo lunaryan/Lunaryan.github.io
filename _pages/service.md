@@ -1,12 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: "Services"
-excerpt: "Services"
+permalink: /service/
 author_profile: true
-redirect_from: 
-  - /service/
-  - /service.html
----
 
 Teaching
 ======
