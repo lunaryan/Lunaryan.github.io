@@ -11,31 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in CSE, Shanghai Jiao Tong University, 2016-2020
+* Ph.D in CS, Purdue University, 2021-now
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 06/2022 - now: Research Assistant
+  * Purdue University
+  * Supervisor: Prof. Xiangyu Zhang
+  * 
+* 07/2020 - 06/2021: Research Assistant
+  * Southern University of Science and Technology
+  * Supervisor: Prof. Shin Hwei Tan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 03/2020 - 05/2020: Research Intern
+  * Tencent Keen Research Lab
+  * Supervisor: Huixin Ma
+ 
+* 07/2019 - 09/2019: Research Intern
+  * Columbia University
+  * Supervisor: Prof. Suman Jana
+ 
+* 01/2018 - 06/2020: Undergraduate Researcher
+  * Shanghai Jiao Tong University
+  * Supervisor: Prof. Haojin Zhu
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+<!--
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -57,3 +58,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
