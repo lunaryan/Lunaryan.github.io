@@ -37,8 +37,9 @@ Work experience
   * Shanghai Jiao Tong University
   * Supervisor: Prof. Haojin Zhu
  
-Awards & Scholarships
+Awards 
 ======
+* NeurIPS 2023 travel award, 2023
 * Hongyi Scholarship, 2020 (only 10 students in SJTU were awarded).
 * Overseas Research Scholarship, 2019, Shanghai Jiao Tong University.
 * Zhiyuan Honor Scholarship, 2016-2019, Shanghai Jiao Tong University.
