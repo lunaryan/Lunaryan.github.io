@@ -39,7 +39,7 @@ Work experience
  
 Awards 
 ======
-* NeurIPS travel award, 2023
+* NeurIPS Travel Award, 2023
 * Hongyi Scholarship, 2020 (only 10 students in SJTU were awarded).
 * Overseas Research Scholarship, 2019, Shanghai Jiao Tong University.
 * Zhiyuan Honor Scholarship, 2016-2019, Shanghai Jiao Tong University.
