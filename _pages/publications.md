@@ -16,6 +16,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
+* Shengwei An*, __Lu Yan*__, Siyuan Cheng, Guangyu Shen, Kaiyuan Zhang, Qiuling Xu, Guanhong Tao, Xiangyu Zhang, 2024. Rethinking the Invisible Protection against Unauthorized Image Usage in Stable Diffusion. In Proceedings of the 33rd USENIX Security Symposium (USENIX Security 2024) 
 * __Lu Yan__, Siyuan Cheng, Guangyu Shen, Guanhong Tao, Xuan Chen, Kaiyuan Zhang, Yunshu Mao, and Xiangyu Zhang, 2023. $D^3$: Detoxing Deep Learning Dataset. In Proceedings of 37th Conference on Neural Information Processing Systems (Backdoors in Deep Learning @ NeurIPS 2023)
 * __Lu Yan__, Zhuo Zhang, Guanhong Tao, Kaiyuan Zhang, Xuan Chen, Guangyu Shen and Xiangyu Zhang, 2023. ParaFuzz: An Interpretability-Driven Technique for Detecting Poisoned Samples in NLP. In Proceedings of 37th Conference on Neural Information Processing Systems (NeurIPS 2023)
 * Shin Hwei Tan, Ziqiang Li, and __Lu Yan__ (2023). CrossFix: Resolution of GitHub issues via similar bug recommendations. Journal of Software: Evolution and Process, e2554.
