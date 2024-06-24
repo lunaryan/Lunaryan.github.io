@@ -1,10 +1,10 @@
 ---
-title: "Dynamic traffic feature camouflaging via generative adversarial networks"
+title: "Rethinking the Invisible Protection against Unauthorized Image Usage in Stable Diffusion"
 collection: publications
-permalink: /publication/flowGAN
-date: 2019-01-01
-venue: '2019 IEEE Conference on Communications and Network Security (CNS)'
-link: 'https://ieeexplore.ieee.org/abstract/document/8802772/'
-excerpt: Jie Li, Lu Zhou, Huaxin Li, __Lu Yan__, Haojin Zhu
+permalink: /publication/insight
+date: 2024-06-01
+venue: 'Proceedings of the 33rd USENIX Security Symposium (USENIX Security 2024)'
+link: ''
+excerpt: Shengwei An*, __Lu Yan*__, Siyuan Cheng, Guangyu Shen, Kaiyuan Zhang, Qiuling Xu, Guanhong Tao, Xiangyu Zhang
 ---
 [PDF]() [Code]()
