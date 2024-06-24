@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year CS PhD student at Purdue University, advised by Prof. Xiangyu Zhang. My research focuses on AI security. I obtained my Bachelor's degree in CS from Shanghai Jiao Tong University in 2020. During my undergraduate, I was fortunate to be advised by Prof. Haojin Zhu. I was also a member of Zhiyuan Honor Program, an elite STEM student program at SJTU.
+I am a fourth-year CS PhD student at Purdue University, advised by Prof. Xiangyu Zhang. My research focuses on AI security. I obtained my Bachelor's degree in CS from Shanghai Jiao Tong University in 2020. During my undergraduate, I was fortunate to be advised by Prof. Haojin Zhu. I was also a member of Zhiyuan Honor Program, an elite STEM student program at SJTU.
 
 Education
 ======
